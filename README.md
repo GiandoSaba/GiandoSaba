@@ -21,4 +21,4 @@ a Devops Engineer from 🇮🇹 with a strong interest in cloud applications.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/giandosaba) 👨🏻‍💻
 - Send me a [Email](mailto:giandosaba@outlook.it)
 
-**Let's work together!** 🤝
+***Let's work together!** 🤝
