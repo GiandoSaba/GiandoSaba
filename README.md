@@ -3,6 +3,8 @@
 I am Giando
 a Devops Engineer from 🇮🇹 with a strong interest in cloud applications.
 
+<a href="https://app.daily.dev/giandosaba"><img src="https://api.daily.dev/devcards/v2/UF1BoITCbmxUTJ1kEaovK.png?type=default&r=yr9" width="356" alt="Giandomenico's Dev Card"/></a>
+
 ## 🧰 Technical skills
 <p align="center"><strong>Programming languages</strong></p>
  <p align="center">
