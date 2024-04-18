@@ -4,7 +4,7 @@ I am Giando
 a Devops Engineer from 🇮🇹 with a strong interest in cloud applications.
 
 <a href="https://app.daily.dev/giandosaba"><img src="https://api.daily.dev/devcards/v2/UF1BoITCbmxUTJ1kEaovK.png?type=default&r=z1y" width="356" alt="Giandomenico's Dev Card"/></a>
-<a href="https://www.credly.com/badges/c0c23ce9-aa1d-4dde-96bc-26be56d9ac24/linked_in_profile"><img src="https://www.credly.com/badges/c0c23ce9-aa1d-4dde-96bc-26be56d9ac24/public_url" width="356" alt="CKAD-Badge"/></a>
+<a href="https://www.credly.com/badges/c0c23ce9-aa1d-4dde-96bc-26be56d9ac24"><img src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" width="356" alt="CKAD-Badge"/></a>
 
 <p>Exercism Profile: https://exercism.org/profiles/GiandoSaba</p>
 
